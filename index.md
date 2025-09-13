@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-This is my content
+p: This is my content
 ---
 
